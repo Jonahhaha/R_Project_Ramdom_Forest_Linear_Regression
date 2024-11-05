@@ -1,4 +1,4 @@
-# R_Project_Ramdom_Forest_Linear_Regression
+# R_Ramdom_Forest_Will_gun_control_curb_violence?
 
 This study investigates factors influencing violent crime rates across U.S. states from the 1970s to 2000s by analyzing data on violent incidents and various social variables, including population, density, income, law, and racial demographics. Using **linear regression and random forest models**, the study compares their ability to predict violent crime, identifying which predictors significantly influence the crime rate. The linear regression model considers all variables, while the random forest model highlights population and the percentage of Caucasians as the most influential predictors.
 
